@@ -4,6 +4,10 @@ Thumbs.db
 *.swp
 *.swo
 
+# Root Dot Folders
+.*
+!.gitignore
+
 # IDEs
 .idea/
 .vscode/
